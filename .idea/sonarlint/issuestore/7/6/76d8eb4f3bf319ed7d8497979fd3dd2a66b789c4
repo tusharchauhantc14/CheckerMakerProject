@@ -1,0 +1,12 @@
+
+Q	java:S125""<This block of commented-out lines of code should be removed.(ŠÚ¢œ
+c	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãÿ¨‰
+d	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÆÒß
+n
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ßÕ…şûÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(Îå¢ÿÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(Îå¢ÿÿÿÿÿ
+b
+java:S1144="LRemove this unused private "changeCustomerMasterToCustomerBeanForm2" method.(ğéåõ
+]
+java:S1144‚"FRemove this unused private "CustomerBeanForm2ToCustomerMaster" method.(ìÆÒß
